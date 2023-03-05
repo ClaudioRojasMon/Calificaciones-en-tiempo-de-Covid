@@ -22,4 +22,6 @@ La pandemia tuvo un impacto en las notas el año 2020, ya que las notas de IV me
 A nivel de regiones 9 de las regiones estuvo igual o sobre la media el 2020 menor  al 2018(10) y similar en relación al 2019 (9). 
 El 2021, el promedio de IV disminuye pero se mantiene más cerca del año 2020 que del 2019 o 2018. Esto podría ser porque muchos colegios mantuvieron durante alguna parte del año sistema virtual o híbrido, lo cual, impacta en el tipo de evaluaciones que se realiza y por ende, en la calificación que se otorga.
 Si a esto le sumamos, la presión del NEM y Ranking más el impacto del decreto 67 permite proyectar que las notas se mantendrán sobre el 6.0 y quizás sigan aumentando. (¡A la espera de los resultados 2022!). 
-La duda que se instala hasta que punto el aumento de las calificaciones son reflejo del logro de aprendizajes reales de los y las estudiantes y no unamera certificación deuda actividad, tarea o prueba realizada. 
+La duda que se instala hasta que punto el aumento de las calificaciones son reflejo del logro de aprendizajes reales de los y las estudiantes y no unamera certificación deuda actividad, tarea o prueba realizada.
+
+**Enlace a Archivo**s: Debido al peso de los mismos, dejamapos el link para que puedan ser descargados directamente de la web del MINEDUC: https://datosabiertos.mineduc.cl/notas-y-egresados-de-ensenanza-media/
