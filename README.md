@@ -1,4 +1,4 @@
-![Logo](Original Logo.png)
+![Logo](https://github.com/ClaudioRojasMon/Calificaciones-en-tiempo-de-Covid/blob/main/Original%20Logo.png)
 
 
 # Calificaciones-en-tiempo-de-Covid
