@@ -4,11 +4,13 @@
 <h1>Calificaciones en tiempo de Covid (parte I)</h1>
 
 
-A  pesar de la pandemia, una de las prácticas que los docentes no pudieron dejar de realizar fue evaluar a sus estudiantes. Los medios a través del cual, buscaron verificar los aprendizajes fueron diversos:  : videos; formularios de google, trabajos escritos enviados por e-mail, guías en papel enviadas a las casas y entregadas en el mismo formato en las porterías de los establecimientos. etc. 
-Por lo mismo, una pregunta surge de ello ¿Cuál fue la diferencia entre notas obtenidas el  2020 con la  de años anteriores y posteriores? 
-Para responder,  utilizamos la base de datos del Mineduc: "Notas y egresados de enseñanza media" de los años 2018, 2019, 2020, 2021. Tomamos 2018 , porque fue el año que se creó la última región: Ñuble y hasta 2021, porque aun no están publicados los datos del 2022.  
+**Introducción** A  pesar de la pandemia, una de las prácticas que los docentes no pudieron dejar de realizar fue evaluar a sus estudiantes. Los medios a través del cual, buscaron verificar los aprendizajes fueron diversos: videos; formularios de google, trabajos escritos enviados por e-mail, guías en papel enviadas a las casas y entregadas en el mismo formato en las porterías de los establecimientos. etc. 
+Por lo mismo, una pregunta surge de todo ello fue: **¿Cuál fue la diferencia entre notas obtenidas el  2020 con la  de años anteriores y posteriores?** 
+
+Para responder esta inquietud,  decidimos recurrir a los datos oficiales que entrega el Mineduc. Por lo cual, utilizamos la base de datos del Mineduc: "Notas y egresados de enseñanza media" de los años 2018, 2019, 2020, 2021. Consideramos el  2018 como punto de partida , porque fue el año que se creó la última región: Ñuble y como punto final el 2021, porque aun no están publicados los datos del 2022.  
+
 Las visualizaciones muestran los resultados de los promedios del nivel IV medio en cada uno de estos años en establecimientos educativos Científicos Humanistas, debido a su foco prioritario en la continuación de estudios en la educación terciaria. 
-Los resultados se presentan por regiones y solo tienen un carácter exploratorio.
+**Los resultados se presentan por regiones y solo tienen un carácter exploratorio.**
 
 **¿Qué hicimos?**
 Descargamos las bases de datos junto a sus documentos que reseñan cada una de las variables. 
