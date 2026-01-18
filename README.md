@@ -1,3 +1,5 @@
+![Analítica para la Escuela](assets/logo oficial readme.png)
+
 # 📊 Calificaciones en Tiempo de COVID-19
 
 **Análisis del impacto de la pandemia en las notas de enseñanza media en Chile (2018-2021)**
