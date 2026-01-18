@@ -1,4 +1,4 @@
-
+![Analítica para la Escuela](assets/logo oficial readme.png)
 
 # 📊 Calificaciones en Tiempo de COVID-19
 
